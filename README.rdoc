@@ -1,0 +1,14 @@
+== Challenge #1: Roster
+
+* Implement tests and functionality so that a visitor can go to `'/teachers' and see a list of teachers. Under each teacher's name, the visitor should see that teacher's students. 
+
+* The age of of the oldest student and youngest student of that teacher should appear on the page. 
+
+
+== Challenge #2: Who needs help? 
+
+* Implement tests and functionality so that someone can go to `'/students'` and see the five students who are struggling the most (ie -- the five students with the lowest value in their `current_score` attribute). 
+
+* The teacher's name should be listed next to the student's name in the following format: "StudentName: TeacherName"
+
+* No more than five students should be displayed, regardless of how many students exist in the database. 
